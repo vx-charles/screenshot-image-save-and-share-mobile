@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CaptureShareApp",
+    "slug": "CaptureShareApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CaptureShareApp"
+}
